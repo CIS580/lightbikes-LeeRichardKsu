@@ -84,5 +84,4 @@ function loop(){
 	//var intervalId = setInterval(loop, speed);
 	requestAnimationFrame(loop);
 	
-	
 loop();
